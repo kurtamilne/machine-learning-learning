@@ -1,5 +1,5 @@
 # machine-learning-learning
-Materials found and used in self study of machine learning topics
+Materials found and used in self study of machine and AI learning topics
 
 Example of student using GitHub as repository for notes and links
 
